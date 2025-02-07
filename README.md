@@ -5,6 +5,11 @@ Si presenta sotto forma di template di foglio di calcolo; può essere scaricato 
 
 È un progetto nato nel 2023 per esigenze personali e costantemente migliorato fino alla versione odierna.
 
+## Download
+Link all'ultima versione ([2025](https://docs.google.com/spreadsheets/d/1gL7TU-lOzGZdLt5lJcIb-8qSYUKdcPM1m_zXO5WN53o/edit?usp=sharing)).
+
+Per utilizzarlo clicca su `File` > `Crea una copia`.
+
 ## Funzionalità
 ![img](assets/screenshots/overview.png)
 
@@ -42,6 +47,7 @@ Si presenta sotto forma di template di foglio di calcolo; può essere scaricato 
 
 ### v2.0 (2025)
 Link di accesso: [link](https://docs.google.com/spreadsheets/d/1gL7TU-lOzGZdLt5lJcIb-8qSYUKdcPM1m_zXO5WN53o/edit?usp=sharing)
+
 Novità:
 - Aggiunta gestione delle spese legate alla casa
 - Aggiunte informazioni aggiuntive in dashboard (casa, statistiche, heatmaps)
@@ -50,6 +56,7 @@ Novità:
 
 ### v1.0 (2024)
 Link di accesso: [link](https://docs.google.com/spreadsheets/d/1pQCYOj4yHN6Sh8pvnGRuUnHgS-XL-s3KXktxWbsPcoY/edit?usp=sharing)
+
 Versione base
 
 ### Upgrade
@@ -76,4 +83,4 @@ SBT offre i seguenti vantaggi:
 - **Privacy oriented**: i dati restano sempre in tuo possesso nella modalità offline
 
 ### Come posso contribuire?
-Rispetto alla scrittura di codice è difficile collaborare su uno stesso foglio di calcolo. Per idee, proposte e segnalazioni apri pure una issue!
+Rispetto alla scrittura di codice è più difficile collaborare su uno stesso foglio di calcolo. Per idee, proposte e segnalazioni apri pure una issue!
