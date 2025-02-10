@@ -5,6 +5,28 @@ Si presenta sotto forma di template di foglio di calcolo; può essere scaricato 
 
 È un progetto nato nel 2023 per esigenze personali e costantemente migliorato fino alla versione odierna.
 
+## Indice
+
+- [Simple Budget Tracker](#simple-budget-tracker)
+  - [Download](#download)
+  - [Funzionalità](#funzionalità)
+    - [Personalizzazione di tutte le categorie](#personalizzazione-di-tutte-le-categorie)
+    - [Inserimento valori](#inserimento-valori)
+    - [Statistiche](#statistiche)
+    - [Heatmaps](#heatmaps)
+      - [Le spese più grandi sono in evidenza](#le-spese-più-grandi-sono-in-evidenza)
+      - [I guadagni più grandi sono in evidenza](#i-guadagni-più-grandi-sono-in-evidenza)
+      - [I totali indicano se si è in positivo (verde) o in negativo (rosso)](#i-totali-indicano-se-si-è-in-positivo-verde-o-in-negativo-rosso)
+  - [Versioni](#versioni)
+    - [v2.0 (2025)](#v20-2025)
+    - [v1.0 (2024)](#v10-2024)
+    - [Upgrade](#upgrade)
+  - [FAQ](#faq)
+    - [Perchè fare budgeting](#perchè-fare-budgeting)
+    - [Devo segnare tutte le spese?](#devo-segnare-tutte-le-spese)
+    - [Perchè scegliere Simple Budget Tracker?](#perchè-scegliere-simple-budget-tracker)
+    - [Come posso contribuire?](#come-posso-contribuire)
+
 ## Download
 Link all'ultima versione ([2025](https://docs.google.com/spreadsheets/d/1gL7TU-lOzGZdLt5lJcIb-8qSYUKdcPM1m_zXO5WN53o/edit?usp=sharing)).
 
