@@ -8,6 +8,7 @@ Si presenta sotto forma di template di foglio di calcolo; può essere scaricato 
 ## Indice
 
 - [Simple Budget Tracker](#simple-budget-tracker)
+  - [Indice](#indice)
   - [Download](#download)
   - [Funzionalità](#funzionalità)
     - [Personalizzazione di tutte le categorie](#personalizzazione-di-tutte-le-categorie)
@@ -18,6 +19,7 @@ Si presenta sotto forma di template di foglio di calcolo; può essere scaricato 
       - [I guadagni più grandi sono in evidenza](#i-guadagni-più-grandi-sono-in-evidenza)
       - [I totali indicano se si è in positivo (verde) o in negativo (rosso)](#i-totali-indicano-se-si-è-in-positivo-verde-o-in-negativo-rosso)
   - [Versioni](#versioni)
+    - [v2.1 (2025)](#v21-2025)
     - [v2.0 (2025)](#v20-2025)
     - [v1.0 (2024)](#v10-2024)
     - [Upgrade](#upgrade)
@@ -28,9 +30,11 @@ Si presenta sotto forma di template di foglio di calcolo; può essere scaricato 
     - [Come posso contribuire?](#come-posso-contribuire)
 
 ## Download
-Link all'ultima versione ([2025](https://docs.google.com/spreadsheets/d/1gL7TU-lOzGZdLt5lJcIb-8qSYUKdcPM1m_zXO5WN53o/edit?usp=sharing)).
+Link all'ultima versione ([2025 v2](https://docs.google.com/spreadsheets/d/1XqJC59epEV-zMwRt0qCgaM_BXF0edMsaPJfv8e_dtzo/edit?usp=sharing)).
 
 Per utilizzarlo clicca su `File` > `Crea una copia`.
+
+Per rimanere sempre aggiornato metti una stella al progetto :star:
 
 ## Funzionalità
 ![img](assets/screenshots/overview.png)
@@ -66,6 +70,15 @@ Per utilizzarlo clicca su `File` > `Crea una copia`.
 ![img](assets/screenshots/heatmap_3.png)
 
 ## Versioni
+
+### v2.1 (2025)
+Link di accesso: [link](https://docs.google.com/spreadsheets/d/1XqJC59epEV-zMwRt0qCgaM_BXF0edMsaPJfv8e_dtzo/edit?usp=sharing)
+
+Novità:
+- Miglioramento performance
+  - Utilizzo degli intervalli denominati (named ranges)
+  - Limitata la lunghezza delle colonne per la convalida dei dati (max 50, espandibile)
+- Uniformato stile degli sheet mensili
 
 ### v2.0 (2025)
 Link di accesso: [link](https://docs.google.com/spreadsheets/d/1gL7TU-lOzGZdLt5lJcIb-8qSYUKdcPM1m_zXO5WN53o/edit?usp=sharing)
