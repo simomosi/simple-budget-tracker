@@ -37,7 +37,7 @@ Si presenta sotto forma di template di foglio di calcolo; può essere scaricato 
     - [Come posso contribuire?](#come-posso-contribuire)
 
 ## Download
-Link all'ultima versione ([2025 v2](https://docs.google.com/spreadsheets/d/1XqJC59epEV-zMwRt0qCgaM_BXF0edMsaPJfv8e_dtzo/edit?usp=sharing)).
+Link all'[ultima versione (v3)](https://docs.google.com/spreadsheets/d/1o_XW2RBx7V8slcOufcDuwUPcTTfnzAA0o5rmI6A--R0/edit?usp=sharing).
 
 Per utilizzarlo clicca su `File` > `Crea una copia`.
 
