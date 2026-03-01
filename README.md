@@ -25,7 +25,7 @@ Si presenta sotto forma di template di foglio di calcolo; può essere scaricato 
       - [Raggruppamenti per data](#raggruppamenti-per-data)
     - [Altro](#altro)
   - [Versioni](#versioni)
-    - [v3 (2026)](#v3-2026)
+    - [v3.1 (2026-03-01)](#v31-2026-03-01)
     - [v2.1 (2025)](#v21-2025)
     - [v2.0 (2025)](#v20-2025)
     - [v1.0 (2024)](#v10-2024)
@@ -37,7 +37,7 @@ Si presenta sotto forma di template di foglio di calcolo; può essere scaricato 
     - [Come posso contribuire?](#come-posso-contribuire)
 
 ## Download
-Link all'[ultima versione (v3)](https://docs.google.com/spreadsheets/d/1o_XW2RBx7V8slcOufcDuwUPcTTfnzAA0o5rmI6A--R0/edit?usp=sharing).
+Link all'[ultima versione](#versioni).
 
 Per utilizzarlo clicca su `File` > `Crea una copia`.
 
@@ -100,8 +100,16 @@ Spese e Movimenti Finanziari possono essere raggruppati, con una vista che mostr
 
 ## Versioni
 
-### v3 (2026)
-Link di accesso: [link](https://docs.google.com/spreadsheets/d/1o_XW2RBx7V8slcOufcDuwUPcTTfnzAA0o5rmI6A--R0/edit?usp=sharing)
+[v3.1]: https://docs.google.com/spreadsheets/d/1o_XW2RBx7V8slcOufcDuwUPcTTfnzAA0o5rmI6A--R0/edit?usp=sharing
+
+[v2.1]: https://docs.google.com/spreadsheets/d/1XqJC59epEV-zMwRt0qCgaM_BXF0edMsaPJfv8e_dtzo/edit?usp=sharing
+
+[v2.0]: https://docs.google.com/spreadsheets/d/1gL7TU-lOzGZdLt5lJcIb-8qSYUKdcPM1m_zXO5WN53o/edit?usp=sharing
+
+[v1.0]: https://docs.google.com/spreadsheets/d/1pQCYOj4yHN6Sh8pvnGRuUnHgS-XL-s3KXktxWbsPcoY/edit?usp=sharing
+
+### v3.1 (2026-03-01)
+Link di accesso: [link][v3.1]
 
 Novità:
 - Aggiunta di un calendario con i mesi trascorsi
@@ -109,9 +117,14 @@ Novità:
 - Velocizzazione performance generali utilizzando fogli di dimensioni ridotte in partenza
 - (Fix) visualizzazione per intero dei template di anni precedenti (indipendentemente dal mese)
 
+Fix (v3.1):
+- Un bug di visualizzazione nella dashboard abilitava i mesi da aprile a dicembre già a marzo. Di conseguenza le medie durante l'anno risultavano calcolate già su 12 mesi invece di rappresentare una media graduale (rolling). Il procedimento più veloce per aggiornare è quello di utilizzare il nuovo template perchè è più facile fare copia e incolla di categorie e spese, ma puoi anche lasciare così se ne sei consapevole. Per un fix manuale invece bisogna effettuare le seguenti operazioni:
+  1. Correggi le celle errate nelle prime righe di ogni tabella (`E6:M6`, `E31:M31`, `E43:M43`, `E51:M51`, `E62:M62`) cambiando la colonna nella condizione dell'`IF` (alla colonna `E` bisogna utilizzare `IF(E$2` ecc)
+  2. (Opzionale) Seleziona le celle `B51:M51` e correggi la formattazione condizionale, la quale deve essere proprio `B51:M51`; fai la stessa cosa per `B62:M62`
+
 
 ### v2.1 (2025)
-Link di accesso: [link](https://docs.google.com/spreadsheets/d/1XqJC59epEV-zMwRt0qCgaM_BXF0edMsaPJfv8e_dtzo/edit?usp=sharing)
+Link di accesso: [link][v2.1]
 
 Novità:
 - Miglioramento performance
@@ -120,7 +133,7 @@ Novità:
 - Uniformato stile degli sheet mensili
 
 ### v2.0 (2025)
-Link di accesso: [link](https://docs.google.com/spreadsheets/d/1gL7TU-lOzGZdLt5lJcIb-8qSYUKdcPM1m_zXO5WN53o/edit?usp=sharing)
+Link di accesso: [link][v2.0]
 
 Novità:
 - Aggiunta gestione delle spese legate alla casa
@@ -129,7 +142,7 @@ Novità:
 
 
 ### v1.0 (2024)
-Link di accesso: [link](https://docs.google.com/spreadsheets/d/1pQCYOj4yHN6Sh8pvnGRuUnHgS-XL-s3KXktxWbsPcoY/edit?usp=sharing)
+Link di accesso: [link][v1.0]
 
 Versione base
 
