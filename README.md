@@ -25,7 +25,7 @@ Si presenta sotto forma di template di foglio di calcolo; può essere scaricato 
       - [Raggruppamenti per data](#raggruppamenti-per-data)
     - [Altro](#altro)
   - [Versioni](#versioni)
-    - [v3.1 (2026-03-01)](#v31-2026-03-01)
+    - [v3.2 (2026-03-21)](#v32-2026-03-21)
     - [v2.1 (2025)](#v21-2025)
     - [v2.0 (2025)](#v20-2025)
     - [v1.0 (2024)](#v10-2024)
@@ -100,7 +100,7 @@ Spese e Movimenti Finanziari possono essere raggruppati, con una vista che mostr
 
 ## Versioni
 
-[v3.1]: https://docs.google.com/spreadsheets/d/1o_XW2RBx7V8slcOufcDuwUPcTTfnzAA0o5rmI6A--R0/edit?usp=sharing
+[v3.2]: https://docs.google.com/spreadsheets/d/1o_XW2RBx7V8slcOufcDuwUPcTTfnzAA0o5rmI6A--R0/edit?usp=sharing
 
 [v2.1]: https://docs.google.com/spreadsheets/d/1XqJC59epEV-zMwRt0qCgaM_BXF0edMsaPJfv8e_dtzo/edit?usp=sharing
 
@@ -108,8 +108,8 @@ Spese e Movimenti Finanziari possono essere raggruppati, con una vista che mostr
 
 [v1.0]: https://docs.google.com/spreadsheets/d/1pQCYOj4yHN6Sh8pvnGRuUnHgS-XL-s3KXktxWbsPcoY/edit?usp=sharing
 
-### v3.1 (2026-03-01)
-Link di accesso: [link][v3.1]
+### v3.2 (2026-03-21)
+Link di accesso: [link][v3.2]
 
 Novità:
 - Aggiunta di un calendario con i mesi trascorsi
@@ -122,6 +122,8 @@ Fix (v3.1):
   1. Correggi le celle errate nelle prime righe di ogni tabella (`E6:M6`, `E31:M31`, `E43:M43`, `E51:M51`, `E62:M62`) cambiando la colonna nella condizione dell'`IF` (alla colonna `E` bisogna utilizzare `IF(E$2` ecc)
   2. (Opzionale) Seleziona le celle `B51:M51` e correggi la formattazione condizionale, la quale deve essere proprio `B51:M51`; fai la stessa cosa per `B62:M62`
 
+Aggiornamento (v3.2):
+- Specificato un nome per ciascun placeholder per far capire subito la sua posizione in dashboard
 
 ### v2.1 (2025)
 Link di accesso: [link][v2.1]
